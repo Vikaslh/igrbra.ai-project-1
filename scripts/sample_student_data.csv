@@ -1,0 +1,11 @@
+student_id,name,class,comprehension,attention,focus,retention,assessment_score,engagement_time
+STU0001,Alice Johnson,Class_A,85.2,78.5,82.1,87.3,84.5,4.2
+STU0002,Bob Smith,Class_B,72.8,69.4,71.2,75.6,73.1,3.8
+STU0003,Carol Davis,Class_A,91.5,88.2,89.7,92.1,90.3,5.1
+STU0004,David Wilson,Class_C,68.3,65.7,67.9,70.2,68.8,3.2
+STU0005,Emma Brown,Class_B,79.6,76.8,78.4,81.2,79.7,4.0
+STU0006,Frank Miller,Class_D,55.4,52.1,54.8,57.3,55.9,2.8
+STU0007,Grace Lee,Class_A,88.7,85.3,87.1,90.4,88.2,4.7
+STU0008,Henry Taylor,Class_C,74.2,71.6,73.8,76.5,74.8,3.6
+STU0009,Ivy Chen,Class_B,82.9,79.7,81.5,84.8,82.4,4.3
+STU0010,Jack Anderson,Class_D,61.8,58.9,60.7,63.4,61.2,3.1
