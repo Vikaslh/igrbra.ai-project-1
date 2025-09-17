@@ -4,19 +4,19 @@ A comprehensive full-stack application for analyzing student cognitive skills an
 
 ## Features
 
-### 🎯 Core Functionality
+### Core Functionality
 - **CSV Data Upload**: Upload student datasets with validation
 - **Interactive Dashboard**: Overview cards, charts, and visualizations
 - **Student Directory**: Searchable and sortable student table
 - **ML Insights**: Correlation analysis, clustering, and predictions
 
-### 📊 Visualizations
+###  Visualizations
 - **Bar Chart**: Average cognitive skills vs assessment scores
 - **Scatter Plot**: Attention levels vs performance correlation
 - **Radar Chart**: Individual student cognitive skill profiles
 - **Progress Indicators**: Model performance and feature importance
 
-### 🤖 Machine Learning
+###  Machine Learning
 - **Correlation Analysis**: Identify strongest predictors of performance
 - **Random Forest Model**: Predict assessment scores with 84%+ accuracy
 - **K-Means Clustering**: Group students into 4 learning personas
@@ -38,12 +38,7 @@ A comprehensive full-stack application for analyzing student cognitive skills an
 - **pandas** for data manipulation
 - **matplotlib/seaborn** for visualizations
 
-## Getting Started
 
-### Prerequisites
-- Node.js 18+ 
-- Python 3.8+
-- npm or yarn
 
 ### Installation
 
