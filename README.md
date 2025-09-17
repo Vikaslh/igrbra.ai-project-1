@@ -113,12 +113,7 @@ This generates:
 | assessment_score | Number | Academic assessment score (0-100) |
 | engagement_time | Number | Study engagement hours |
 
-### Sample Data Format
-\`\`\`csv
-student_id,name,class,comprehension,attention,focus,retention,assessment_score,engagement_time
-STU0001,Alice Johnson,Class_A,85.2,78.5,82.1,87.3,84.5,4.2
-STU0002,Bob Smith,Class_B,72.8,69.4,71.2,75.6,73.1,3.8
-\`\`\`
+
 
 ## ML Analysis Details
 
@@ -142,38 +137,6 @@ STU0002,Bob Smith,Class_B,72.8,69.4,71.2,75.6,73.1,3.8
   - Potential Improvers (25%)
   - At-Risk Students (15%)
 
-## API Endpoints
-
-### GET /api/students
-Retrieve student data
-\`\`\`json
-{
-  "success": true,
-  "data": [...],
-  "count": 250
-}
-\`\`\`
-
-### POST /api/students
-Upload new student data
-\`\`\`json
-{
-  "students": [...]
-}
-\`\`\`
-
-### POST /api/analysis
-Run ML analysis on dataset
-\`\`\`json
-{
-  "success": true,
-  "analysis": {
-    "correlations": [...],
-    "clusters": [...],
-    "model_performance": {...}
-  }
-}
-\`\`\`
 
 
 ## License
