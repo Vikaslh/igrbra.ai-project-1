@@ -1,6 +1,7 @@
 # Student Cognitive Skills & Performance Dashboard
 
 A comprehensive full-stack application for analyzing student cognitive skills and academic performance using machine learning techniques.
+link https://igrbra-ai-project-1.vercel.app
 
 ## Features
 
